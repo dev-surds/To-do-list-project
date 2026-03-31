@@ -52,4 +52,5 @@ Drag-and-drop task reordering,
 Mobile app version,
 Author
 
-Dev-surds
+Dev-surds<img width="1920" height="1080" alt="Screenshot 2026-03-31 131145 2" src="https://github.com/user-attachments/assets/8b4fb069-bfb0-4c92-9522-3b794c83f88a" />
+
